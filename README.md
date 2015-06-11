@@ -25,6 +25,6 @@ bower install && polyserve
 ```
 
 And open your favorite browser:
-- [http://localhost:8080/components/magnet-state/](http://localhost:8080/components/magnet-seed/) for documentation
+- [http://localhost:8080/components/magnet-seed/](http://localhost:8080/components/magnet-seed/) for documentation
 and demo
-- [http://localhost:8080/components/magnet-state/test](http://localhost:8080/components/magnet-seed/test) for tests
+- [http://localhost:8080/components/magnet-seed/test](http://localhost:8080/components/magnet-seed/test) for tests
