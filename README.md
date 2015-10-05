@@ -1,13 +1,13 @@
-# magnet-seed
+# dude-seed
 
-`magnet-seed` is a Polymer element boilerplate for magnet library.
+`dude-seed` is a Polymer element boilerplate for dude library.
 
 ## Install
 
 This element can be easily installed using bower:
 
 ```
-bower install magnet-seed --save
+bower install dude-seed --save
 ```
 
 ## Documentation, demo and tests
@@ -25,6 +25,6 @@ bower install && polyserve
 ```
 
 And open your favorite browser:
-- [http://localhost:8080/components/magnet-seed/](http://localhost:8080/components/magnet-seed/) for documentation
+- [http://localhost:8080/components/dude-seed/](http://localhost:8080/components/dude-seed/) for documentation
 and demo
-- [http://localhost:8080/components/magnet-seed/test](http://localhost:8080/components/magnet-seed/test) for tests
+- [http://localhost:8080/components/dude-seed/test](http://localhost:8080/components/dude-seed/test) for tests
