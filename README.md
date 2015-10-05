@@ -15,7 +15,7 @@ bower install dude-seed --save
 If you want to access to this information you need to install the following package:
 
 ```
-bower install -g polyserve
+bower install -g polyserve -p 8080
 ```
 
 And run it into the repository's root folder:
