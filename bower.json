@@ -5,7 +5,7 @@
     "Jonathan Picques <jonathan.picques@gmail.com>",
     "Jeremie Taboada <taboada.jeremie@gmail.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "dude-seed is a Polymer element boilerplate for dude library.",
   "keywords": [
     "dude",
     "state"
